@@ -1,0 +1,24 @@
+.card{
+    width: 25rem;
+    margin: 20px;
+    padding: 20px;
+}
+
+.navbar-brand{
+    margin-left: 15px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.box{
+    width: 80%;
+    height: 80%;
+    align-items: center;
+  justify-content: center;
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    align-items: center;
+}

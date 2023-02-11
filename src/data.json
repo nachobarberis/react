@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Zapatilla 1",
+    "price": 100,
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+    "stock": 3,
+    "category": "Deportiva",
+    "img": "deportiva.png"
+  },
+  {
+    "id": 2,
+    "name": "Zapatilla 2",
+    "price": 200,
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+    "stock": 8,
+    "category": "Deportiva",
+    "img": "deportiva.png"
+  },
+  {
+    "id": 3,
+    "name": "Zapato 1",
+    "price": 300,
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+    "stock": 3,
+    "category": "Casual",
+    "img": "casual.png"
+  },
+  {
+    "id": 4,
+    "name": "Bota 1",
+    "price": 400,
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+    "stock": 5,
+    "category": "Formal",
+    "img": "formal.png"
+  },
+
+  {
+    "id": 5,
+    "name": "Bota 2",
+    "price": 300,
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+    "stock": 2,
+    "category": "Formal",
+    "img": "formal.png"
+  },
+
+  {
+    "id": 6,
+    "name": "Zapatilla 3",
+    "price": 300,
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+    "stock": 2,
+    "category": "Deportiva",
+    "img": "deportiva.png"
+  }
+
+]
